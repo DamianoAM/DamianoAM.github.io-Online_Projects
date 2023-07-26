@@ -97,7 +97,7 @@ title: "Damiano, Daniele & Simone" # Site name or title, also used in jekyll-seo
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://damianoam.github.io/Online_Projects/" # Site url, also used in jekyll-seo-tag
-baseurl: "/Online_Projects"
+baseurl: "/Online_Projects/"
 repo: "https://github.com/daviddarnes/alembic"
 email: "damianoagachi@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
